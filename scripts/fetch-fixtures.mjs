@@ -2,7 +2,15 @@ import fs from 'node:fs/promises';
 
 const TOKEN = process.env.FD_TOKEN;
 const API = 'https://api.football-data.org/v4';
-const COMPS = ['CL', 'EL', 'ECL', 'SA', 'PL', 'BL1', 'PD', 'FL1'];
+const COMPS = [
+  'CL',
+  // 'EL', 'ECL',
+  'SA',
+  'PL',
+  'BL1',
+  'PD',
+  'FL1',
+];
 
 async function fd(path) {
   const r = await fetch(`${API}${path}`, {
