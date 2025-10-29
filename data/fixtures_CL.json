@@ -1,0 +1,1892 @@
+[
+  {
+    "id": 551979,
+    "utcDate": "2025-11-04T17:45:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 4,
+    "homeTeam": {
+      "id": 930,
+      "name": "SK Slavia Praha",
+      "crest": "https://crests.football-data.org/930.png"
+    },
+    "awayTeam": {
+      "id": 57,
+      "name": "Arsenal FC",
+      "crest": "https://crests.football-data.org/57.png"
+    },
+    "lastUpdated": "2025-10-29T01:32:04Z"
+  },
+  {
+    "id": 551999,
+    "utcDate": "2025-11-04T17:45:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 4,
+    "homeTeam": {
+      "id": 113,
+      "name": "SSC Napoli",
+      "crest": "https://crests.football-data.org/113.png"
+    },
+    "awayTeam": {
+      "id": 19,
+      "name": "Eintracht Frankfurt",
+      "crest": "https://crests.football-data.org/19.png"
+    },
+    "lastUpdated": "2025-10-29T01:32:04Z"
+  },
+  {
+    "id": 552003,
+    "utcDate": "2025-11-04T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 4,
+    "homeTeam": {
+      "id": 109,
+      "name": "Juventus FC",
+      "crest": "https://crests.football-data.org/109.png"
+    },
+    "awayTeam": {
+      "id": 498,
+      "name": "Sporting Clube de Portugal",
+      "crest": "https://crests.football-data.org/498.png"
+    },
+    "lastUpdated": "2025-10-29T01:32:05Z"
+  },
+  {
+    "id": 552009,
+    "utcDate": "2025-11-04T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 4,
+    "homeTeam": {
+      "id": 78,
+      "name": "Club Atlético de Madrid",
+      "crest": "https://crests.football-data.org/78.png"
+    },
+    "awayTeam": {
+      "id": 3929,
+      "name": "Royale Union Saint-Gilloise",
+      "crest": "https://crests.football-data.org/3929.png"
+    },
+    "lastUpdated": "2025-10-29T01:32:05Z"
+  },
+  {
+    "id": 552021,
+    "utcDate": "2025-11-04T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 4,
+    "homeTeam": {
+      "id": 73,
+      "name": "Tottenham Hotspur FC",
+      "crest": "https://crests.football-data.org/73.png"
+    },
+    "awayTeam": {
+      "id": 1876,
+      "name": "FC København",
+      "crest": "https://crests.football-data.org/1876.png"
+    },
+    "lastUpdated": "2025-10-29T01:32:05Z"
+  },
+  {
+    "id": 552024,
+    "utcDate": "2025-11-04T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 4,
+    "homeTeam": {
+      "id": 5721,
+      "name": "FK Bodø/Glimt",
+      "crest": "https://crests.football-data.org/5721.png"
+    },
+    "awayTeam": {
+      "id": 548,
+      "name": "AS Monaco FC",
+      "crest": "https://crests.football-data.org/548.png"
+    },
+    "lastUpdated": "2025-10-29T01:32:05Z"
+  },
+  {
+    "id": 552029,
+    "utcDate": "2025-11-04T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 4,
+    "homeTeam": {
+      "id": 654,
+      "name": "PAE Olympiakos SFP",
+      "crest": "https://crests.football-data.org/654.png"
+    },
+    "awayTeam": {
+      "id": 674,
+      "name": "PSV",
+      "crest": "https://crests.football-data.org/674.png"
+    },
+    "lastUpdated": "2025-10-29T01:32:05Z"
+  },
+  {
+    "id": 551909,
+    "utcDate": "2025-11-04T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 4,
+    "homeTeam": {
+      "id": 524,
+      "name": "Paris Saint-Germain FC",
+      "crest": "https://crests.football-data.org/524.png"
+    },
+    "awayTeam": {
+      "id": 5,
+      "name": "FC Bayern München",
+      "crest": "https://crests.football-data.org/5.png"
+    },
+    "lastUpdated": "2025-10-29T01:32:05Z"
+  },
+  {
+    "id": 551924,
+    "utcDate": "2025-11-04T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 4,
+    "homeTeam": {
+      "id": 64,
+      "name": "Liverpool FC",
+      "crest": "https://crests.football-data.org/64.png"
+    },
+    "awayTeam": {
+      "id": 86,
+      "name": "Real Madrid CF",
+      "crest": "https://crests.football-data.org/86.png"
+    },
+    "lastUpdated": "2025-10-29T01:32:05Z"
+  },
+  {
+    "id": 552014,
+    "utcDate": "2025-11-05T17:45:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 4,
+    "homeTeam": {
+      "id": 11034,
+      "name": "Paphos FC",
+      "crest": "https://crests.football-data.org/11034.png"
+    },
+    "awayTeam": {
+      "id": 94,
+      "name": "Villarreal CF",
+      "crest": "https://crests.football-data.org/94.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 551922,
+    "utcDate": "2025-11-05T17:45:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 4,
+    "homeTeam": {
+      "id": 611,
+      "name": "Qarabağ Ağdam FK",
+      "crest": "https://crests.football-data.org/611.png"
+    },
+    "awayTeam": {
+      "id": 61,
+      "name": "Chelsea FC",
+      "crest": "https://crests.football-data.org/61.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 551937,
+    "utcDate": "2025-11-05T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 4,
+    "homeTeam": {
+      "id": 108,
+      "name": "FC Internazionale Milano",
+      "crest": "https://crests.football-data.org/108.png"
+    },
+    "awayTeam": {
+      "id": 10601,
+      "name": "FK Kairat",
+      "crest": "https://crests.football-data.org/10601.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 551939,
+    "utcDate": "2025-11-05T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 4,
+    "homeTeam": {
+      "id": 65,
+      "name": "Manchester City FC",
+      "crest": "https://crests.football-data.org/65.png"
+    },
+    "awayTeam": {
+      "id": 4,
+      "name": "Borussia Dortmund",
+      "crest": "https://crests.football-data.org/4.png"
+    },
+    "lastUpdated": "2025-10-29T00:21:04Z"
+  },
+  {
+    "id": 551954,
+    "utcDate": "2025-11-05T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 4,
+    "homeTeam": {
+      "id": 851,
+      "name": "Club Brugge KV",
+      "crest": "https://crests.football-data.org/851.png"
+    },
+    "awayTeam": {
+      "id": 81,
+      "name": "FC Barcelona",
+      "crest": "https://crests.football-data.org/81.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 551971,
+    "utcDate": "2025-11-05T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 4,
+    "homeTeam": {
+      "id": 1903,
+      "name": "Sport Lisboa e Benfica",
+      "crest": "https://crests.football-data.org/1903.png"
+    },
+    "awayTeam": {
+      "id": 3,
+      "name": "Bayer 04 Leverkusen",
+      "crest": "https://crests.football-data.org/3.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 551985,
+    "utcDate": "2025-11-05T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 4,
+    "homeTeam": {
+      "id": 516,
+      "name": "Olympique de Marseille",
+      "crest": "https://crests.football-data.org/516.png"
+    },
+    "awayTeam": {
+      "id": 102,
+      "name": "Atalanta BC",
+      "crest": "https://crests.football-data.org/102.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 552033,
+    "utcDate": "2025-11-05T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 4,
+    "homeTeam": {
+      "id": 678,
+      "name": "AFC Ajax",
+      "crest": "https://crests.football-data.org/678.png"
+    },
+    "awayTeam": {
+      "id": 610,
+      "name": "Galatasaray SK",
+      "crest": "https://crests.football-data.org/610.png"
+    },
+    "lastUpdated": "2025-08-31T15:20:48Z"
+  },
+  {
+    "id": 552047,
+    "utcDate": "2025-11-05T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 4,
+    "homeTeam": {
+      "id": 67,
+      "name": "Newcastle United FC",
+      "crest": "https://crests.football-data.org/67.png"
+    },
+    "awayTeam": {
+      "id": 77,
+      "name": "Athletic Club",
+      "crest": "https://crests.football-data.org/77.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 551990,
+    "utcDate": "2025-11-25T17:45:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 5,
+    "homeTeam": {
+      "id": 678,
+      "name": "AFC Ajax",
+      "crest": "https://crests.football-data.org/678.png"
+    },
+    "awayTeam": {
+      "id": 1903,
+      "name": "Sport Lisboa e Benfica",
+      "crest": "https://crests.football-data.org/1903.png"
+    },
+    "lastUpdated": "2025-08-31T15:20:48Z"
+  },
+  {
+    "id": 552043,
+    "utcDate": "2025-11-25T17:45:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 5,
+    "homeTeam": {
+      "id": 610,
+      "name": "Galatasaray SK",
+      "crest": "https://crests.football-data.org/610.png"
+    },
+    "awayTeam": {
+      "id": 3929,
+      "name": "Royale Union Saint-Gilloise",
+      "crest": "https://crests.football-data.org/3929.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 551940,
+    "utcDate": "2025-11-25T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 5,
+    "homeTeam": {
+      "id": 4,
+      "name": "Borussia Dortmund",
+      "crest": "https://crests.football-data.org/4.png"
+    },
+    "awayTeam": {
+      "id": 94,
+      "name": "Villarreal CF",
+      "crest": "https://crests.football-data.org/94.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 551963,
+    "utcDate": "2025-11-25T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 5,
+    "homeTeam": {
+      "id": 65,
+      "name": "Manchester City FC",
+      "crest": "https://crests.football-data.org/65.png"
+    },
+    "awayTeam": {
+      "id": 3,
+      "name": "Bayer 04 Leverkusen",
+      "crest": "https://crests.football-data.org/3.png"
+    },
+    "lastUpdated": "2025-10-29T00:21:04Z"
+  },
+  {
+    "id": 552004,
+    "utcDate": "2025-11-25T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 5,
+    "homeTeam": {
+      "id": 5721,
+      "name": "FK Bodø/Glimt",
+      "crest": "https://crests.football-data.org/5721.png"
+    },
+    "awayTeam": {
+      "id": 109,
+      "name": "Juventus FC",
+      "crest": "https://crests.football-data.org/109.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 552017,
+    "utcDate": "2025-11-25T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 5,
+    "homeTeam": {
+      "id": 516,
+      "name": "Olympique de Marseille",
+      "crest": "https://crests.football-data.org/516.png"
+    },
+    "awayTeam": {
+      "id": 67,
+      "name": "Newcastle United FC",
+      "crest": "https://crests.football-data.org/67.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 552035,
+    "utcDate": "2025-11-25T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 5,
+    "homeTeam": {
+      "id": 930,
+      "name": "SK Slavia Praha",
+      "crest": "https://crests.football-data.org/930.png"
+    },
+    "awayTeam": {
+      "id": 77,
+      "name": "Athletic Club",
+      "crest": "https://crests.football-data.org/77.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 552037,
+    "utcDate": "2025-11-25T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 5,
+    "homeTeam": {
+      "id": 113,
+      "name": "SSC Napoli",
+      "crest": "https://crests.football-data.org/113.png"
+    },
+    "awayTeam": {
+      "id": 611,
+      "name": "Qarabağ Ağdam FK",
+      "crest": "https://crests.football-data.org/611.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 551916,
+    "utcDate": "2025-11-25T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 5,
+    "homeTeam": {
+      "id": 61,
+      "name": "Chelsea FC",
+      "crest": "https://crests.football-data.org/61.png"
+    },
+    "awayTeam": {
+      "id": 81,
+      "name": "FC Barcelona",
+      "crest": "https://crests.football-data.org/81.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 552042,
+    "utcDate": "2025-11-26T17:45:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 5,
+    "homeTeam": {
+      "id": 11034,
+      "name": "Paphos FC",
+      "crest": "https://crests.football-data.org/11034.png"
+    },
+    "awayTeam": {
+      "id": 548,
+      "name": "AS Monaco FC",
+      "crest": "https://crests.football-data.org/548.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 552046,
+    "utcDate": "2025-11-26T17:45:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 5,
+    "homeTeam": {
+      "id": 1876,
+      "name": "FC København",
+      "crest": "https://crests.football-data.org/1876.png"
+    },
+    "awayTeam": {
+      "id": 10601,
+      "name": "FK Kairat",
+      "crest": "https://crests.football-data.org/10601.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 551948,
+    "utcDate": "2025-11-26T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 5,
+    "homeTeam": {
+      "id": 64,
+      "name": "Liverpool FC",
+      "crest": "https://crests.football-data.org/64.png"
+    },
+    "awayTeam": {
+      "id": 674,
+      "name": "PSV",
+      "crest": "https://crests.football-data.org/674.png"
+    },
+    "lastUpdated": "2025-08-31T15:20:48Z"
+  },
+  {
+    "id": 551961,
+    "utcDate": "2025-11-26T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 5,
+    "homeTeam": {
+      "id": 524,
+      "name": "Paris Saint-Germain FC",
+      "crest": "https://crests.football-data.org/524.png"
+    },
+    "awayTeam": {
+      "id": 73,
+      "name": "Tottenham Hotspur FC",
+      "crest": "https://crests.football-data.org/73.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 551983,
+    "utcDate": "2025-11-26T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 5,
+    "homeTeam": {
+      "id": 19,
+      "name": "Eintracht Frankfurt",
+      "crest": "https://crests.football-data.org/19.png"
+    },
+    "awayTeam": {
+      "id": 102,
+      "name": "Atalanta BC",
+      "crest": "https://crests.football-data.org/102.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 551994,
+    "utcDate": "2025-11-26T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 5,
+    "homeTeam": {
+      "id": 498,
+      "name": "Sporting Clube de Portugal",
+      "crest": "https://crests.football-data.org/498.png"
+    },
+    "awayTeam": {
+      "id": 851,
+      "name": "Club Brugge KV",
+      "crest": "https://crests.football-data.org/851.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 551911,
+    "utcDate": "2025-11-26T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 5,
+    "homeTeam": {
+      "id": 57,
+      "name": "Arsenal FC",
+      "crest": "https://crests.football-data.org/57.png"
+    },
+    "awayTeam": {
+      "id": 5,
+      "name": "FC Bayern München",
+      "crest": "https://crests.football-data.org/5.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 551928,
+    "utcDate": "2025-11-26T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 5,
+    "homeTeam": {
+      "id": 654,
+      "name": "PAE Olympiakos SFP",
+      "crest": "https://crests.football-data.org/654.png"
+    },
+    "awayTeam": {
+      "id": 86,
+      "name": "Real Madrid CF",
+      "crest": "https://crests.football-data.org/86.png"
+    },
+    "lastUpdated": "2025-10-29T00:21:04Z"
+  },
+  {
+    "id": 551934,
+    "utcDate": "2025-11-26T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 5,
+    "homeTeam": {
+      "id": 78,
+      "name": "Club Atlético de Madrid",
+      "crest": "https://crests.football-data.org/78.png"
+    },
+    "awayTeam": {
+      "id": 108,
+      "name": "FC Internazionale Milano",
+      "crest": "https://crests.football-data.org/108.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 552032,
+    "utcDate": "2025-12-09T15:30:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 6,
+    "homeTeam": {
+      "id": 10601,
+      "name": "FK Kairat",
+      "crest": "https://crests.football-data.org/10601.png"
+    },
+    "awayTeam": {
+      "id": 654,
+      "name": "PAE Olympiakos SFP",
+      "crest": "https://crests.football-data.org/654.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 551912,
+    "utcDate": "2025-12-09T17:45:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 6,
+    "homeTeam": {
+      "id": 5,
+      "name": "FC Bayern München",
+      "crest": "https://crests.football-data.org/5.png"
+    },
+    "awayTeam": {
+      "id": 498,
+      "name": "Sporting Clube de Portugal",
+      "crest": "https://crests.football-data.org/498.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 551953,
+    "utcDate": "2025-12-09T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 6,
+    "homeTeam": {
+      "id": 81,
+      "name": "FC Barcelona",
+      "crest": "https://crests.football-data.org/81.png"
+    },
+    "awayTeam": {
+      "id": 19,
+      "name": "Eintracht Frankfurt",
+      "crest": "https://crests.football-data.org/19.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 552008,
+    "utcDate": "2025-12-09T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 6,
+    "homeTeam": {
+      "id": 674,
+      "name": "PSV",
+      "crest": "https://crests.football-data.org/674.png"
+    },
+    "awayTeam": {
+      "id": 78,
+      "name": "Club Atlético de Madrid",
+      "crest": "https://crests.football-data.org/78.png"
+    },
+    "lastUpdated": "2025-08-31T15:20:48Z"
+  },
+  {
+    "id": 552018,
+    "utcDate": "2025-12-09T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 6,
+    "homeTeam": {
+      "id": 3929,
+      "name": "Royale Union Saint-Gilloise",
+      "crest": "https://crests.football-data.org/3929.png"
+    },
+    "awayTeam": {
+      "id": 516,
+      "name": "Olympique de Marseille",
+      "crest": "https://crests.football-data.org/516.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 552019,
+    "utcDate": "2025-12-09T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 6,
+    "homeTeam": {
+      "id": 73,
+      "name": "Tottenham Hotspur FC",
+      "crest": "https://crests.football-data.org/73.png"
+    },
+    "awayTeam": {
+      "id": 930,
+      "name": "SK Slavia Praha",
+      "crest": "https://crests.football-data.org/930.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 552041,
+    "utcDate": "2025-12-09T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 6,
+    "homeTeam": {
+      "id": 548,
+      "name": "AS Monaco FC",
+      "crest": "https://crests.football-data.org/548.png"
+    },
+    "awayTeam": {
+      "id": 610,
+      "name": "Galatasaray SK",
+      "crest": "https://crests.football-data.org/610.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 551918,
+    "utcDate": "2025-12-09T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 6,
+    "homeTeam": {
+      "id": 102,
+      "name": "Atalanta BC",
+      "crest": "https://crests.football-data.org/102.png"
+    },
+    "awayTeam": {
+      "id": 61,
+      "name": "Chelsea FC",
+      "crest": "https://crests.football-data.org/61.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 551931,
+    "utcDate": "2025-12-09T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 6,
+    "homeTeam": {
+      "id": 108,
+      "name": "FC Internazionale Milano",
+      "crest": "https://crests.football-data.org/108.png"
+    },
+    "awayTeam": {
+      "id": 64,
+      "name": "Liverpool FC",
+      "crest": "https://crests.football-data.org/64.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 552013,
+    "utcDate": "2025-12-10T17:45:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 6,
+    "homeTeam": {
+      "id": 94,
+      "name": "Villarreal CF",
+      "crest": "https://crests.football-data.org/94.png"
+    },
+    "awayTeam": {
+      "id": 1876,
+      "name": "FC København",
+      "crest": "https://crests.football-data.org/1876.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 552034,
+    "utcDate": "2025-12-10T17:45:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 6,
+    "homeTeam": {
+      "id": 611,
+      "name": "Qarabağ Ağdam FK",
+      "crest": "https://crests.football-data.org/611.png"
+    },
+    "awayTeam": {
+      "id": 678,
+      "name": "AFC Ajax",
+      "crest": "https://crests.football-data.org/678.png"
+    },
+    "lastUpdated": "2025-08-31T15:20:48Z"
+  },
+  {
+    "id": 551942,
+    "utcDate": "2025-12-10T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 6,
+    "homeTeam": {
+      "id": 4,
+      "name": "Borussia Dortmund",
+      "crest": "https://crests.football-data.org/4.png"
+    },
+    "awayTeam": {
+      "id": 5721,
+      "name": "FK Bodø/Glimt",
+      "crest": "https://crests.football-data.org/5721.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 551969,
+    "utcDate": "2025-12-10T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 6,
+    "homeTeam": {
+      "id": 77,
+      "name": "Athletic Club",
+      "crest": "https://crests.football-data.org/77.png"
+    },
+    "awayTeam": {
+      "id": 524,
+      "name": "Paris Saint-Germain FC",
+      "crest": "https://crests.football-data.org/524.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 551974,
+    "utcDate": "2025-12-10T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 6,
+    "homeTeam": {
+      "id": 3,
+      "name": "Bayer 04 Leverkusen",
+      "crest": "https://crests.football-data.org/3.png"
+    },
+    "awayTeam": {
+      "id": 67,
+      "name": "Newcastle United FC",
+      "crest": "https://crests.football-data.org/67.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 551977,
+    "utcDate": "2025-12-10T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 6,
+    "homeTeam": {
+      "id": 851,
+      "name": "Club Brugge KV",
+      "crest": "https://crests.football-data.org/851.png"
+    },
+    "awayTeam": {
+      "id": 57,
+      "name": "Arsenal FC",
+      "crest": "https://crests.football-data.org/57.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 551989,
+    "utcDate": "2025-12-10T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 6,
+    "homeTeam": {
+      "id": 1903,
+      "name": "Sport Lisboa e Benfica",
+      "crest": "https://crests.football-data.org/1903.png"
+    },
+    "awayTeam": {
+      "id": 113,
+      "name": "SSC Napoli",
+      "crest": "https://crests.football-data.org/113.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 552005,
+    "utcDate": "2025-12-10T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 6,
+    "homeTeam": {
+      "id": 109,
+      "name": "Juventus FC",
+      "crest": "https://crests.football-data.org/109.png"
+    },
+    "awayTeam": {
+      "id": 11034,
+      "name": "Paphos FC",
+      "crest": "https://crests.football-data.org/11034.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 551923,
+    "utcDate": "2025-12-10T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 6,
+    "homeTeam": {
+      "id": 86,
+      "name": "Real Madrid CF",
+      "crest": "https://crests.football-data.org/86.png"
+    },
+    "awayTeam": {
+      "id": 65,
+      "name": "Manchester City FC",
+      "crest": "https://crests.football-data.org/65.png"
+    },
+    "lastUpdated": "2025-10-29T00:21:04Z"
+  },
+  {
+    "id": 551996,
+    "utcDate": "2026-01-20T15:30:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 7,
+    "homeTeam": {
+      "id": 10601,
+      "name": "FK Kairat",
+      "crest": "https://crests.football-data.org/10601.png"
+    },
+    "awayTeam": {
+      "id": 851,
+      "name": "Club Brugge KV",
+      "crest": "https://crests.football-data.org/851.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 551966,
+    "utcDate": "2026-01-20T17:45:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 7,
+    "homeTeam": {
+      "id": 5721,
+      "name": "FK Bodø/Glimt",
+      "crest": "https://crests.football-data.org/5721.png"
+    },
+    "awayTeam": {
+      "id": 65,
+      "name": "Manchester City FC",
+      "crest": "https://crests.football-data.org/65.png"
+    },
+    "lastUpdated": "2025-10-29T00:21:04Z"
+  },
+  {
+    "id": 551943,
+    "utcDate": "2026-01-20T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 7,
+    "homeTeam": {
+      "id": 73,
+      "name": "Tottenham Hotspur FC",
+      "crest": "https://crests.football-data.org/73.png"
+    },
+    "awayTeam": {
+      "id": 4,
+      "name": "Borussia Dortmund",
+      "crest": "https://crests.football-data.org/4.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 551962,
+    "utcDate": "2026-01-20T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 7,
+    "homeTeam": {
+      "id": 498,
+      "name": "Sporting Clube de Portugal",
+      "crest": "https://crests.football-data.org/498.png"
+    },
+    "awayTeam": {
+      "id": 524,
+      "name": "Paris Saint-Germain FC",
+      "crest": "https://crests.football-data.org/524.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 551973,
+    "utcDate": "2026-01-20T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 7,
+    "homeTeam": {
+      "id": 654,
+      "name": "PAE Olympiakos SFP",
+      "crest": "https://crests.football-data.org/654.png"
+    },
+    "awayTeam": {
+      "id": 3,
+      "name": "Bayer 04 Leverkusen",
+      "crest": "https://crests.football-data.org/3.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 552011,
+    "utcDate": "2026-01-20T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 7,
+    "homeTeam": {
+      "id": 94,
+      "name": "Villarreal CF",
+      "crest": "https://crests.football-data.org/94.png"
+    },
+    "awayTeam": {
+      "id": 678,
+      "name": "AFC Ajax",
+      "crest": "https://crests.football-data.org/678.png"
+    },
+    "lastUpdated": "2025-08-31T15:20:48Z"
+  },
+  {
+    "id": 552038,
+    "utcDate": "2026-01-20T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 7,
+    "homeTeam": {
+      "id": 1876,
+      "name": "FC København",
+      "crest": "https://crests.football-data.org/1876.png"
+    },
+    "awayTeam": {
+      "id": 113,
+      "name": "SSC Napoli",
+      "crest": "https://crests.football-data.org/113.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 551929,
+    "utcDate": "2026-01-20T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 7,
+    "homeTeam": {
+      "id": 86,
+      "name": "Real Madrid CF",
+      "crest": "https://crests.football-data.org/86.png"
+    },
+    "awayTeam": {
+      "id": 548,
+      "name": "AS Monaco FC",
+      "crest": "https://crests.football-data.org/548.png"
+    },
+    "lastUpdated": "2025-10-29T00:21:04Z"
+  },
+  {
+    "id": 551933,
+    "utcDate": "2026-01-20T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 7,
+    "homeTeam": {
+      "id": 108,
+      "name": "FC Internazionale Milano",
+      "crest": "https://crests.football-data.org/108.png"
+    },
+    "awayTeam": {
+      "id": 57,
+      "name": "Arsenal FC",
+      "crest": "https://crests.football-data.org/57.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 552001,
+    "utcDate": "2026-01-21T17:45:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 7,
+    "homeTeam": {
+      "id": 611,
+      "name": "Qarabağ Ağdam FK",
+      "crest": "https://crests.football-data.org/611.png"
+    },
+    "awayTeam": {
+      "id": 19,
+      "name": "Eintracht Frankfurt",
+      "crest": "https://crests.football-data.org/19.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 552010,
+    "utcDate": "2026-01-21T17:45:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 7,
+    "homeTeam": {
+      "id": 610,
+      "name": "Galatasaray SK",
+      "crest": "https://crests.football-data.org/610.png"
+    },
+    "awayTeam": {
+      "id": 78,
+      "name": "Club Atlético de Madrid",
+      "crest": "https://crests.football-data.org/78.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 551949,
+    "utcDate": "2026-01-21T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 7,
+    "homeTeam": {
+      "id": 516,
+      "name": "Olympique de Marseille",
+      "crest": "https://crests.football-data.org/516.png"
+    },
+    "awayTeam": {
+      "id": 64,
+      "name": "Liverpool FC",
+      "crest": "https://crests.football-data.org/64.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 551956,
+    "utcDate": "2026-01-21T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 7,
+    "homeTeam": {
+      "id": 930,
+      "name": "SK Slavia Praha",
+      "crest": "https://crests.football-data.org/930.png"
+    },
+    "awayTeam": {
+      "id": 81,
+      "name": "FC Barcelona",
+      "crest": "https://crests.football-data.org/81.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 551986,
+    "utcDate": "2026-01-21T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 7,
+    "homeTeam": {
+      "id": 102,
+      "name": "Atalanta BC",
+      "crest": "https://crests.football-data.org/102.png"
+    },
+    "awayTeam": {
+      "id": 77,
+      "name": "Athletic Club",
+      "crest": "https://crests.football-data.org/77.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 551988,
+    "utcDate": "2026-01-21T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 7,
+    "homeTeam": {
+      "id": 109,
+      "name": "Juventus FC",
+      "crest": "https://crests.football-data.org/109.png"
+    },
+    "awayTeam": {
+      "id": 1903,
+      "name": "Sport Lisboa e Benfica",
+      "crest": "https://crests.football-data.org/1903.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 552036,
+    "utcDate": "2026-01-21T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 7,
+    "homeTeam": {
+      "id": 67,
+      "name": "Newcastle United FC",
+      "crest": "https://crests.football-data.org/67.png"
+    },
+    "awayTeam": {
+      "id": 674,
+      "name": "PSV",
+      "crest": "https://crests.football-data.org/674.png"
+    },
+    "lastUpdated": "2025-08-31T15:20:48Z"
+  },
+  {
+    "id": 551914,
+    "utcDate": "2026-01-21T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 7,
+    "homeTeam": {
+      "id": 5,
+      "name": "FC Bayern München",
+      "crest": "https://crests.football-data.org/5.png"
+    },
+    "awayTeam": {
+      "id": 3929,
+      "name": "Royale Union Saint-Gilloise",
+      "crest": "https://crests.football-data.org/3929.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 551921,
+    "utcDate": "2026-01-21T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 7,
+    "homeTeam": {
+      "id": 61,
+      "name": "Chelsea FC",
+      "crest": "https://crests.football-data.org/61.png"
+    },
+    "awayTeam": {
+      "id": 11034,
+      "name": "Paphos FC",
+      "crest": "https://crests.football-data.org/11034.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 551950,
+    "utcDate": "2026-01-28T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 8,
+    "homeTeam": {
+      "id": 64,
+      "name": "Liverpool FC",
+      "crest": "https://crests.football-data.org/64.png"
+    },
+    "awayTeam": {
+      "id": 611,
+      "name": "Qarabağ Ağdam FK",
+      "crest": "https://crests.football-data.org/611.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 551957,
+    "utcDate": "2026-01-28T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 8,
+    "homeTeam": {
+      "id": 81,
+      "name": "FC Barcelona",
+      "crest": "https://crests.football-data.org/81.png"
+    },
+    "awayTeam": {
+      "id": 1876,
+      "name": "FC København",
+      "crest": "https://crests.football-data.org/1876.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 551967,
+    "utcDate": "2026-01-28T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 8,
+    "homeTeam": {
+      "id": 65,
+      "name": "Manchester City FC",
+      "crest": "https://crests.football-data.org/65.png"
+    },
+    "awayTeam": {
+      "id": 610,
+      "name": "Galatasaray SK",
+      "crest": "https://crests.football-data.org/610.png"
+    },
+    "lastUpdated": "2025-10-29T00:21:04Z"
+  },
+  {
+    "id": 551970,
+    "utcDate": "2026-01-28T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 8,
+    "homeTeam": {
+      "id": 3,
+      "name": "Bayer 04 Leverkusen",
+      "crest": "https://crests.football-data.org/3.png"
+    },
+    "awayTeam": {
+      "id": 94,
+      "name": "Villarreal CF",
+      "crest": "https://crests.football-data.org/94.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 551980,
+    "utcDate": "2026-01-28T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 8,
+    "homeTeam": {
+      "id": 57,
+      "name": "Arsenal FC",
+      "crest": "https://crests.football-data.org/57.png"
+    },
+    "awayTeam": {
+      "id": 10601,
+      "name": "FK Kairat",
+      "crest": "https://crests.football-data.org/10601.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 551987,
+    "utcDate": "2026-01-28T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 8,
+    "homeTeam": {
+      "id": 3929,
+      "name": "Royale Union Saint-Gilloise",
+      "crest": "https://crests.football-data.org/3929.png"
+    },
+    "awayTeam": {
+      "id": 102,
+      "name": "Atalanta BC",
+      "crest": "https://crests.football-data.org/102.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 551993,
+    "utcDate": "2026-01-28T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 8,
+    "homeTeam": {
+      "id": 851,
+      "name": "Club Brugge KV",
+      "crest": "https://crests.football-data.org/851.png"
+    },
+    "awayTeam": {
+      "id": 516,
+      "name": "Olympique de Marseille",
+      "crest": "https://crests.football-data.org/516.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 551998,
+    "utcDate": "2026-01-28T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 8,
+    "homeTeam": {
+      "id": 19,
+      "name": "Eintracht Frankfurt",
+      "crest": "https://crests.football-data.org/19.png"
+    },
+    "awayTeam": {
+      "id": 73,
+      "name": "Tottenham Hotspur FC",
+      "crest": "https://crests.football-data.org/73.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 552006,
+    "utcDate": "2026-01-28T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 8,
+    "homeTeam": {
+      "id": 548,
+      "name": "AS Monaco FC",
+      "crest": "https://crests.football-data.org/548.png"
+    },
+    "awayTeam": {
+      "id": 109,
+      "name": "Juventus FC",
+      "crest": "https://crests.football-data.org/109.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 552007,
+    "utcDate": "2026-01-28T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 8,
+    "homeTeam": {
+      "id": 78,
+      "name": "Club Atlético de Madrid",
+      "crest": "https://crests.football-data.org/78.png"
+    },
+    "awayTeam": {
+      "id": 5721,
+      "name": "FK Bodø/Glimt",
+      "crest": "https://crests.football-data.org/5721.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 552028,
+    "utcDate": "2026-01-28T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 8,
+    "homeTeam": {
+      "id": 77,
+      "name": "Athletic Club",
+      "crest": "https://crests.football-data.org/77.png"
+    },
+    "awayTeam": {
+      "id": 498,
+      "name": "Sporting Clube de Portugal",
+      "crest": "https://crests.football-data.org/498.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 552030,
+    "utcDate": "2026-01-28T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 8,
+    "homeTeam": {
+      "id": 678,
+      "name": "AFC Ajax",
+      "crest": "https://crests.football-data.org/678.png"
+    },
+    "awayTeam": {
+      "id": 654,
+      "name": "PAE Olympiakos SFP",
+      "crest": "https://crests.football-data.org/654.png"
+    },
+    "lastUpdated": "2025-08-31T15:20:48Z"
+  },
+  {
+    "id": 552050,
+    "utcDate": "2026-01-28T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 8,
+    "homeTeam": {
+      "id": 524,
+      "name": "Paris Saint-Germain FC",
+      "crest": "https://crests.football-data.org/524.png"
+    },
+    "awayTeam": {
+      "id": 67,
+      "name": "Newcastle United FC",
+      "crest": "https://crests.football-data.org/67.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 552051,
+    "utcDate": "2026-01-28T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 8,
+    "homeTeam": {
+      "id": 11034,
+      "name": "Paphos FC",
+      "crest": "https://crests.football-data.org/11034.png"
+    },
+    "awayTeam": {
+      "id": 930,
+      "name": "SK Slavia Praha",
+      "crest": "https://crests.football-data.org/930.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 551913,
+    "utcDate": "2026-01-28T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 8,
+    "homeTeam": {
+      "id": 674,
+      "name": "PSV",
+      "crest": "https://crests.football-data.org/674.png"
+    },
+    "awayTeam": {
+      "id": 5,
+      "name": "FC Bayern München",
+      "crest": "https://crests.football-data.org/5.png"
+    },
+    "lastUpdated": "2025-08-31T15:20:48Z"
+  },
+  {
+    "id": 551920,
+    "utcDate": "2026-01-28T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 8,
+    "homeTeam": {
+      "id": 113,
+      "name": "SSC Napoli",
+      "crest": "https://crests.football-data.org/113.png"
+    },
+    "awayTeam": {
+      "id": 61,
+      "name": "Chelsea FC",
+      "crest": "https://crests.football-data.org/61.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 551926,
+    "utcDate": "2026-01-28T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 8,
+    "homeTeam": {
+      "id": 1903,
+      "name": "Sport Lisboa e Benfica",
+      "crest": "https://crests.football-data.org/1903.png"
+    },
+    "awayTeam": {
+      "id": 86,
+      "name": "Real Madrid CF",
+      "crest": "https://crests.football-data.org/86.png"
+    },
+    "lastUpdated": "2025-10-29T00:21:04Z"
+  },
+  {
+    "id": 551932,
+    "utcDate": "2026-01-28T20:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LEAGUE_STAGE",
+    "matchday": 8,
+    "homeTeam": {
+      "id": 4,
+      "name": "Borussia Dortmund",
+      "crest": "https://crests.football-data.org/4.png"
+    },
+    "awayTeam": {
+      "id": 108,
+      "name": "FC Internazionale Milano",
+      "crest": "https://crests.football-data.org/108.png"
+    },
+    "lastUpdated": "2025-09-01T20:21:04Z"
+  }
+]
