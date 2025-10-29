@@ -18,6 +18,12 @@
       "name": "Arsenal FC",
       "crest": "https://crests.football-data.org/57.png"
     },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
     "lastUpdated": "2025-10-29T01:32:04Z"
   },
   {
@@ -38,6 +44,12 @@
       "id": 19,
       "name": "Eintracht Frankfurt",
       "crest": "https://crests.football-data.org/19.png"
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
     },
     "lastUpdated": "2025-10-29T01:32:04Z"
   },
@@ -60,6 +72,12 @@
       "name": "Sporting Clube de Portugal",
       "crest": "https://crests.football-data.org/498.png"
     },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
     "lastUpdated": "2025-10-29T01:32:05Z"
   },
   {
@@ -80,6 +98,12 @@
       "id": 3929,
       "name": "Royale Union Saint-Gilloise",
       "crest": "https://crests.football-data.org/3929.png"
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
     },
     "lastUpdated": "2025-10-29T01:32:05Z"
   },
@@ -102,6 +126,12 @@
       "name": "FC København",
       "crest": "https://crests.football-data.org/1876.png"
     },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
     "lastUpdated": "2025-10-29T01:32:05Z"
   },
   {
@@ -122,6 +152,12 @@
       "id": 548,
       "name": "AS Monaco FC",
       "crest": "https://crests.football-data.org/548.png"
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
     },
     "lastUpdated": "2025-10-29T01:32:05Z"
   },
@@ -144,6 +180,12 @@
       "name": "PSV",
       "crest": "https://crests.football-data.org/674.png"
     },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
     "lastUpdated": "2025-10-29T01:32:05Z"
   },
   {
@@ -164,6 +206,12 @@
       "id": 5,
       "name": "FC Bayern München",
       "crest": "https://crests.football-data.org/5.png"
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
     },
     "lastUpdated": "2025-10-29T01:32:05Z"
   },
@@ -186,6 +234,12 @@
       "name": "Real Madrid CF",
       "crest": "https://crests.football-data.org/86.png"
     },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
     "lastUpdated": "2025-10-29T01:32:05Z"
   },
   {
@@ -206,6 +260,12 @@
       "id": 94,
       "name": "Villarreal CF",
       "crest": "https://crests.football-data.org/94.png"
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
     },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
@@ -228,6 +288,12 @@
       "name": "Chelsea FC",
       "crest": "https://crests.football-data.org/61.png"
     },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
   {
@@ -248,6 +314,12 @@
       "id": 10601,
       "name": "FK Kairat",
       "crest": "https://crests.football-data.org/10601.png"
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
     },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
@@ -270,6 +342,12 @@
       "name": "Borussia Dortmund",
       "crest": "https://crests.football-data.org/4.png"
     },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
     "lastUpdated": "2025-10-29T00:21:04Z"
   },
   {
@@ -290,6 +368,12 @@
       "id": 81,
       "name": "FC Barcelona",
       "crest": "https://crests.football-data.org/81.png"
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
     },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
@@ -312,6 +396,12 @@
       "name": "Bayer 04 Leverkusen",
       "crest": "https://crests.football-data.org/3.png"
     },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
   {
@@ -332,6 +422,12 @@
       "id": 102,
       "name": "Atalanta BC",
       "crest": "https://crests.football-data.org/102.png"
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
     },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
@@ -354,6 +450,12 @@
       "name": "Galatasaray SK",
       "crest": "https://crests.football-data.org/610.png"
     },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
     "lastUpdated": "2025-08-31T15:20:48Z"
   },
   {
@@ -374,6 +476,12 @@
       "id": 77,
       "name": "Athletic Club",
       "crest": "https://crests.football-data.org/77.png"
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
     },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
@@ -396,6 +504,12 @@
       "name": "Sport Lisboa e Benfica",
       "crest": "https://crests.football-data.org/1903.png"
     },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
     "lastUpdated": "2025-08-31T15:20:48Z"
   },
   {
@@ -416,6 +530,12 @@
       "id": 3929,
       "name": "Royale Union Saint-Gilloise",
       "crest": "https://crests.football-data.org/3929.png"
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
     },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
@@ -438,6 +558,12 @@
       "name": "Villarreal CF",
       "crest": "https://crests.football-data.org/94.png"
     },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
   {
@@ -458,6 +584,12 @@
       "id": 3,
       "name": "Bayer 04 Leverkusen",
       "crest": "https://crests.football-data.org/3.png"
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
     },
     "lastUpdated": "2025-10-29T00:21:04Z"
   },
@@ -480,6 +612,12 @@
       "name": "Juventus FC",
       "crest": "https://crests.football-data.org/109.png"
     },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
   {
@@ -500,6 +638,12 @@
       "id": 67,
       "name": "Newcastle United FC",
       "crest": "https://crests.football-data.org/67.png"
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
     },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
@@ -522,6 +666,12 @@
       "name": "Athletic Club",
       "crest": "https://crests.football-data.org/77.png"
     },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
   {
@@ -542,6 +692,12 @@
       "id": 611,
       "name": "Qarabağ Ağdam FK",
       "crest": "https://crests.football-data.org/611.png"
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
     },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
@@ -564,6 +720,12 @@
       "name": "FC Barcelona",
       "crest": "https://crests.football-data.org/81.png"
     },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
   {
@@ -584,6 +746,12 @@
       "id": 548,
       "name": "AS Monaco FC",
       "crest": "https://crests.football-data.org/548.png"
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
     },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
@@ -606,6 +774,12 @@
       "name": "FK Kairat",
       "crest": "https://crests.football-data.org/10601.png"
     },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
   {
@@ -626,6 +800,12 @@
       "id": 674,
       "name": "PSV",
       "crest": "https://crests.football-data.org/674.png"
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
     },
     "lastUpdated": "2025-08-31T15:20:48Z"
   },
@@ -648,6 +828,12 @@
       "name": "Tottenham Hotspur FC",
       "crest": "https://crests.football-data.org/73.png"
     },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
   {
@@ -668,6 +854,12 @@
       "id": 102,
       "name": "Atalanta BC",
       "crest": "https://crests.football-data.org/102.png"
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
     },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
@@ -690,6 +882,12 @@
       "name": "Club Brugge KV",
       "crest": "https://crests.football-data.org/851.png"
     },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
   {
@@ -710,6 +908,12 @@
       "id": 5,
       "name": "FC Bayern München",
       "crest": "https://crests.football-data.org/5.png"
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
     },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
@@ -732,6 +936,12 @@
       "name": "Real Madrid CF",
       "crest": "https://crests.football-data.org/86.png"
     },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
     "lastUpdated": "2025-10-29T00:21:04Z"
   },
   {
@@ -752,6 +962,12 @@
       "id": 108,
       "name": "FC Internazionale Milano",
       "crest": "https://crests.football-data.org/108.png"
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
     },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
@@ -774,6 +990,12 @@
       "name": "PAE Olympiakos SFP",
       "crest": "https://crests.football-data.org/654.png"
     },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
   {
@@ -794,6 +1016,12 @@
       "id": 498,
       "name": "Sporting Clube de Portugal",
       "crest": "https://crests.football-data.org/498.png"
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
     },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
@@ -816,6 +1044,12 @@
       "name": "Eintracht Frankfurt",
       "crest": "https://crests.football-data.org/19.png"
     },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
   {
@@ -836,6 +1070,12 @@
       "id": 78,
       "name": "Club Atlético de Madrid",
       "crest": "https://crests.football-data.org/78.png"
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
     },
     "lastUpdated": "2025-08-31T15:20:48Z"
   },
@@ -858,6 +1098,12 @@
       "name": "Olympique de Marseille",
       "crest": "https://crests.football-data.org/516.png"
     },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
   {
@@ -878,6 +1124,12 @@
       "id": 930,
       "name": "SK Slavia Praha",
       "crest": "https://crests.football-data.org/930.png"
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
     },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
@@ -900,6 +1152,12 @@
       "name": "Galatasaray SK",
       "crest": "https://crests.football-data.org/610.png"
     },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
   {
@@ -920,6 +1178,12 @@
       "id": 61,
       "name": "Chelsea FC",
       "crest": "https://crests.football-data.org/61.png"
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
     },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
@@ -942,6 +1206,12 @@
       "name": "Liverpool FC",
       "crest": "https://crests.football-data.org/64.png"
     },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
   {
@@ -962,6 +1232,12 @@
       "id": 1876,
       "name": "FC København",
       "crest": "https://crests.football-data.org/1876.png"
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
     },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
@@ -984,6 +1260,12 @@
       "name": "AFC Ajax",
       "crest": "https://crests.football-data.org/678.png"
     },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
     "lastUpdated": "2025-08-31T15:20:48Z"
   },
   {
@@ -1004,6 +1286,12 @@
       "id": 5721,
       "name": "FK Bodø/Glimt",
       "crest": "https://crests.football-data.org/5721.png"
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
     },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
@@ -1026,6 +1314,12 @@
       "name": "Paris Saint-Germain FC",
       "crest": "https://crests.football-data.org/524.png"
     },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
   {
@@ -1046,6 +1340,12 @@
       "id": 67,
       "name": "Newcastle United FC",
       "crest": "https://crests.football-data.org/67.png"
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
     },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
@@ -1068,6 +1368,12 @@
       "name": "Arsenal FC",
       "crest": "https://crests.football-data.org/57.png"
     },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
   {
@@ -1088,6 +1394,12 @@
       "id": 113,
       "name": "SSC Napoli",
       "crest": "https://crests.football-data.org/113.png"
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
     },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
@@ -1110,6 +1422,12 @@
       "name": "Paphos FC",
       "crest": "https://crests.football-data.org/11034.png"
     },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
   {
@@ -1130,6 +1448,12 @@
       "id": 65,
       "name": "Manchester City FC",
       "crest": "https://crests.football-data.org/65.png"
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
     },
     "lastUpdated": "2025-10-29T00:21:04Z"
   },
@@ -1152,6 +1476,12 @@
       "name": "Club Brugge KV",
       "crest": "https://crests.football-data.org/851.png"
     },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
   {
@@ -1172,6 +1502,12 @@
       "id": 65,
       "name": "Manchester City FC",
       "crest": "https://crests.football-data.org/65.png"
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
     },
     "lastUpdated": "2025-10-29T00:21:04Z"
   },
@@ -1194,6 +1530,12 @@
       "name": "Borussia Dortmund",
       "crest": "https://crests.football-data.org/4.png"
     },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
   {
@@ -1214,6 +1556,12 @@
       "id": 524,
       "name": "Paris Saint-Germain FC",
       "crest": "https://crests.football-data.org/524.png"
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
     },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
@@ -1236,6 +1584,12 @@
       "name": "Bayer 04 Leverkusen",
       "crest": "https://crests.football-data.org/3.png"
     },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
   {
@@ -1256,6 +1610,12 @@
       "id": 678,
       "name": "AFC Ajax",
       "crest": "https://crests.football-data.org/678.png"
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
     },
     "lastUpdated": "2025-08-31T15:20:48Z"
   },
@@ -1278,6 +1638,12 @@
       "name": "SSC Napoli",
       "crest": "https://crests.football-data.org/113.png"
     },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
   {
@@ -1298,6 +1664,12 @@
       "id": 548,
       "name": "AS Monaco FC",
       "crest": "https://crests.football-data.org/548.png"
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
     },
     "lastUpdated": "2025-10-29T00:21:04Z"
   },
@@ -1320,6 +1692,12 @@
       "name": "Arsenal FC",
       "crest": "https://crests.football-data.org/57.png"
     },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
   {
@@ -1340,6 +1718,12 @@
       "id": 19,
       "name": "Eintracht Frankfurt",
       "crest": "https://crests.football-data.org/19.png"
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
     },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
@@ -1362,6 +1746,12 @@
       "name": "Club Atlético de Madrid",
       "crest": "https://crests.football-data.org/78.png"
     },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
   {
@@ -1382,6 +1772,12 @@
       "id": 64,
       "name": "Liverpool FC",
       "crest": "https://crests.football-data.org/64.png"
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
     },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
@@ -1404,6 +1800,12 @@
       "name": "FC Barcelona",
       "crest": "https://crests.football-data.org/81.png"
     },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
   {
@@ -1424,6 +1826,12 @@
       "id": 77,
       "name": "Athletic Club",
       "crest": "https://crests.football-data.org/77.png"
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
     },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
@@ -1446,6 +1854,12 @@
       "name": "Sport Lisboa e Benfica",
       "crest": "https://crests.football-data.org/1903.png"
     },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
   {
@@ -1466,6 +1880,12 @@
       "id": 674,
       "name": "PSV",
       "crest": "https://crests.football-data.org/674.png"
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
     },
     "lastUpdated": "2025-08-31T15:20:48Z"
   },
@@ -1488,6 +1908,12 @@
       "name": "Royale Union Saint-Gilloise",
       "crest": "https://crests.football-data.org/3929.png"
     },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
   {
@@ -1508,6 +1934,12 @@
       "id": 11034,
       "name": "Paphos FC",
       "crest": "https://crests.football-data.org/11034.png"
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
     },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
@@ -1530,6 +1962,12 @@
       "name": "Qarabağ Ağdam FK",
       "crest": "https://crests.football-data.org/611.png"
     },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
   {
@@ -1550,6 +1988,12 @@
       "id": 1876,
       "name": "FC København",
       "crest": "https://crests.football-data.org/1876.png"
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
     },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
@@ -1572,6 +2016,12 @@
       "name": "Galatasaray SK",
       "crest": "https://crests.football-data.org/610.png"
     },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
     "lastUpdated": "2025-10-29T00:21:04Z"
   },
   {
@@ -1592,6 +2042,12 @@
       "id": 94,
       "name": "Villarreal CF",
       "crest": "https://crests.football-data.org/94.png"
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
     },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
@@ -1614,6 +2070,12 @@
       "name": "FK Kairat",
       "crest": "https://crests.football-data.org/10601.png"
     },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
   {
@@ -1634,6 +2096,12 @@
       "id": 102,
       "name": "Atalanta BC",
       "crest": "https://crests.football-data.org/102.png"
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
     },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
@@ -1656,6 +2124,12 @@
       "name": "Olympique de Marseille",
       "crest": "https://crests.football-data.org/516.png"
     },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
   {
@@ -1676,6 +2150,12 @@
       "id": 73,
       "name": "Tottenham Hotspur FC",
       "crest": "https://crests.football-data.org/73.png"
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
     },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
@@ -1698,6 +2178,12 @@
       "name": "Juventus FC",
       "crest": "https://crests.football-data.org/109.png"
     },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
   {
@@ -1718,6 +2204,12 @@
       "id": 5721,
       "name": "FK Bodø/Glimt",
       "crest": "https://crests.football-data.org/5721.png"
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
     },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
@@ -1740,6 +2232,12 @@
       "name": "Sporting Clube de Portugal",
       "crest": "https://crests.football-data.org/498.png"
     },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
   {
@@ -1760,6 +2258,12 @@
       "id": 654,
       "name": "PAE Olympiakos SFP",
       "crest": "https://crests.football-data.org/654.png"
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
     },
     "lastUpdated": "2025-08-31T15:20:48Z"
   },
@@ -1782,6 +2286,12 @@
       "name": "Newcastle United FC",
       "crest": "https://crests.football-data.org/67.png"
     },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
   {
@@ -1802,6 +2312,12 @@
       "id": 930,
       "name": "SK Slavia Praha",
       "crest": "https://crests.football-data.org/930.png"
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
     },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
@@ -1824,6 +2340,12 @@
       "name": "FC Bayern München",
       "crest": "https://crests.football-data.org/5.png"
     },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
     "lastUpdated": "2025-08-31T15:20:48Z"
   },
   {
@@ -1844,6 +2366,12 @@
       "id": 61,
       "name": "Chelsea FC",
       "crest": "https://crests.football-data.org/61.png"
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
     },
     "lastUpdated": "2025-09-01T20:21:04Z"
   },
@@ -1866,6 +2394,12 @@
       "name": "Real Madrid CF",
       "crest": "https://crests.football-data.org/86.png"
     },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
     "lastUpdated": "2025-10-29T00:21:04Z"
   },
   {
@@ -1887,6 +2421,1227 @@
       "name": "FC Internazionale Milano",
       "crest": "https://crests.football-data.org/108.png"
     },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
     "lastUpdated": "2025-09-01T20:21:04Z"
+  },
+  {
+    "id": 552052,
+    "utcDate": "2026-02-17T00:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "PLAYOFFS",
+    "matchday": 1,
+    "homeTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
+    "lastUpdated": "2025-08-29T05:43:25Z"
+  },
+  {
+    "id": 552053,
+    "utcDate": "2026-02-17T00:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "PLAYOFFS",
+    "matchday": 1,
+    "homeTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
+    "lastUpdated": "2025-08-29T05:43:25Z"
+  },
+  {
+    "id": 552054,
+    "utcDate": "2026-02-17T00:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "PLAYOFFS",
+    "matchday": 1,
+    "homeTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
+    "lastUpdated": "2025-08-29T05:43:25Z"
+  },
+  {
+    "id": 552055,
+    "utcDate": "2026-02-17T00:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "PLAYOFFS",
+    "matchday": 1,
+    "homeTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
+    "lastUpdated": "2025-08-29T05:43:25Z"
+  },
+  {
+    "id": 552056,
+    "utcDate": "2026-02-18T00:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "PLAYOFFS",
+    "matchday": 1,
+    "homeTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
+    "lastUpdated": "2025-08-29T05:43:25Z"
+  },
+  {
+    "id": 552057,
+    "utcDate": "2026-02-18T00:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "PLAYOFFS",
+    "matchday": 1,
+    "homeTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
+    "lastUpdated": "2025-08-29T05:43:25Z"
+  },
+  {
+    "id": 552058,
+    "utcDate": "2026-02-18T00:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "PLAYOFFS",
+    "matchday": 1,
+    "homeTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
+    "lastUpdated": "2025-08-29T05:43:25Z"
+  },
+  {
+    "id": 552059,
+    "utcDate": "2026-02-18T00:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "PLAYOFFS",
+    "matchday": 1,
+    "homeTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
+    "lastUpdated": "2025-08-29T05:43:25Z"
+  },
+  {
+    "id": 552060,
+    "utcDate": "2026-02-24T00:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "PLAYOFFS",
+    "matchday": 2,
+    "homeTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
+    "lastUpdated": "2025-08-29T05:43:25Z"
+  },
+  {
+    "id": 552061,
+    "utcDate": "2026-02-24T00:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "PLAYOFFS",
+    "matchday": 2,
+    "homeTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
+    "lastUpdated": "2025-08-29T05:43:25Z"
+  },
+  {
+    "id": 552062,
+    "utcDate": "2026-02-24T00:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "PLAYOFFS",
+    "matchday": 2,
+    "homeTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
+    "lastUpdated": "2025-08-29T05:43:25Z"
+  },
+  {
+    "id": 552063,
+    "utcDate": "2026-02-24T00:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "PLAYOFFS",
+    "matchday": 2,
+    "homeTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
+    "lastUpdated": "2025-08-29T05:43:25Z"
+  },
+  {
+    "id": 552064,
+    "utcDate": "2026-02-25T00:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "PLAYOFFS",
+    "matchday": 2,
+    "homeTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
+    "lastUpdated": "2025-08-29T05:43:25Z"
+  },
+  {
+    "id": 552065,
+    "utcDate": "2026-02-25T00:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "PLAYOFFS",
+    "matchday": 2,
+    "homeTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
+    "lastUpdated": "2025-08-29T05:43:26Z"
+  },
+  {
+    "id": 552066,
+    "utcDate": "2026-02-25T00:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "PLAYOFFS",
+    "matchday": 2,
+    "homeTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
+    "lastUpdated": "2025-08-29T05:43:26Z"
+  },
+  {
+    "id": 552067,
+    "utcDate": "2026-02-25T00:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "PLAYOFFS",
+    "matchday": 2,
+    "homeTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
+    "lastUpdated": "2025-08-29T05:43:26Z"
+  },
+  {
+    "id": 552068,
+    "utcDate": "2026-03-10T00:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LAST_16",
+    "matchday": 1,
+    "homeTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
+    "lastUpdated": "2025-08-29T05:43:26Z"
+  },
+  {
+    "id": 552069,
+    "utcDate": "2026-03-10T00:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LAST_16",
+    "matchday": 1,
+    "homeTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
+    "lastUpdated": "2025-08-29T05:43:26Z"
+  },
+  {
+    "id": 552070,
+    "utcDate": "2026-03-10T00:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LAST_16",
+    "matchday": 1,
+    "homeTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
+    "lastUpdated": "2025-08-29T05:43:26Z"
+  },
+  {
+    "id": 552071,
+    "utcDate": "2026-03-10T00:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LAST_16",
+    "matchday": 1,
+    "homeTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
+    "lastUpdated": "2025-08-29T05:43:26Z"
+  },
+  {
+    "id": 552072,
+    "utcDate": "2026-03-11T00:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LAST_16",
+    "matchday": 1,
+    "homeTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
+    "lastUpdated": "2025-08-29T05:43:26Z"
+  },
+  {
+    "id": 552073,
+    "utcDate": "2026-03-11T00:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LAST_16",
+    "matchday": 1,
+    "homeTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
+    "lastUpdated": "2025-08-29T05:43:26Z"
+  },
+  {
+    "id": 552074,
+    "utcDate": "2026-03-11T00:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LAST_16",
+    "matchday": 1,
+    "homeTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
+    "lastUpdated": "2025-08-29T05:43:26Z"
+  },
+  {
+    "id": 552075,
+    "utcDate": "2026-03-11T00:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LAST_16",
+    "matchday": 1,
+    "homeTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
+    "lastUpdated": "2025-08-29T05:43:26Z"
+  },
+  {
+    "id": 552076,
+    "utcDate": "2026-03-17T00:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LAST_16",
+    "matchday": 2,
+    "homeTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
+    "lastUpdated": "2025-08-29T05:43:26Z"
+  },
+  {
+    "id": 552077,
+    "utcDate": "2026-03-17T00:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LAST_16",
+    "matchday": 2,
+    "homeTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
+    "lastUpdated": "2025-08-29T05:43:26Z"
+  },
+  {
+    "id": 552078,
+    "utcDate": "2026-03-17T00:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LAST_16",
+    "matchday": 2,
+    "homeTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
+    "lastUpdated": "2025-08-29T05:43:26Z"
+  },
+  {
+    "id": 552079,
+    "utcDate": "2026-03-17T00:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LAST_16",
+    "matchday": 2,
+    "homeTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
+    "lastUpdated": "2025-08-29T05:43:26Z"
+  },
+  {
+    "id": 552080,
+    "utcDate": "2026-03-18T00:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LAST_16",
+    "matchday": 2,
+    "homeTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
+    "lastUpdated": "2025-08-29T05:43:26Z"
+  },
+  {
+    "id": 552081,
+    "utcDate": "2026-03-18T00:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LAST_16",
+    "matchday": 2,
+    "homeTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
+    "lastUpdated": "2025-08-29T05:43:26Z"
+  },
+  {
+    "id": 552082,
+    "utcDate": "2026-03-18T00:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LAST_16",
+    "matchday": 2,
+    "homeTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
+    "lastUpdated": "2025-08-29T05:43:27Z"
+  },
+  {
+    "id": 552083,
+    "utcDate": "2026-03-18T00:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "LAST_16",
+    "matchday": 2,
+    "homeTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
+    "lastUpdated": "2025-08-29T05:43:27Z"
+  },
+  {
+    "id": 552084,
+    "utcDate": "2026-04-07T00:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "QUARTER_FINALS",
+    "matchday": 1,
+    "homeTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
+    "lastUpdated": "2025-08-29T05:43:27Z"
+  },
+  {
+    "id": 552085,
+    "utcDate": "2026-04-07T00:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "QUARTER_FINALS",
+    "matchday": 1,
+    "homeTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
+    "lastUpdated": "2025-08-29T05:43:27Z"
+  },
+  {
+    "id": 552086,
+    "utcDate": "2026-04-08T00:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "QUARTER_FINALS",
+    "matchday": 1,
+    "homeTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
+    "lastUpdated": "2025-08-29T05:43:27Z"
+  },
+  {
+    "id": 552087,
+    "utcDate": "2026-04-08T00:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "QUARTER_FINALS",
+    "matchday": 1,
+    "homeTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
+    "lastUpdated": "2025-08-29T05:43:27Z"
+  },
+  {
+    "id": 552088,
+    "utcDate": "2026-04-14T00:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "QUARTER_FINALS",
+    "matchday": 2,
+    "homeTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
+    "lastUpdated": "2025-08-29T05:43:27Z"
+  },
+  {
+    "id": 552089,
+    "utcDate": "2026-04-14T00:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "QUARTER_FINALS",
+    "matchday": 2,
+    "homeTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
+    "lastUpdated": "2025-08-29T05:43:27Z"
+  },
+  {
+    "id": 552090,
+    "utcDate": "2026-04-15T00:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "QUARTER_FINALS",
+    "matchday": 2,
+    "homeTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
+    "lastUpdated": "2025-08-29T05:43:27Z"
+  },
+  {
+    "id": 552091,
+    "utcDate": "2026-04-15T00:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "QUARTER_FINALS",
+    "matchday": 2,
+    "homeTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
+    "lastUpdated": "2025-08-29T05:43:27Z"
+  },
+  {
+    "id": 552092,
+    "utcDate": "2026-04-28T00:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "SEMI_FINALS",
+    "matchday": 1,
+    "homeTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
+    "lastUpdated": "2025-08-29T05:43:27Z"
+  },
+  {
+    "id": 552093,
+    "utcDate": "2026-04-29T00:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "SEMI_FINALS",
+    "matchday": 1,
+    "homeTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
+    "lastUpdated": "2025-08-29T05:43:27Z"
+  },
+  {
+    "id": 552094,
+    "utcDate": "2026-05-05T00:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "SEMI_FINALS",
+    "matchday": 2,
+    "homeTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
+    "lastUpdated": "2025-08-29T05:43:27Z"
+  },
+  {
+    "id": 552095,
+    "utcDate": "2026-05-06T00:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "SEMI_FINALS",
+    "matchday": 2,
+    "homeTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
+    "lastUpdated": "2025-08-29T05:43:27Z"
+  },
+  {
+    "id": 552096,
+    "utcDate": "2026-05-30T16:00:00Z",
+    "competition": {
+      "code": "CL",
+      "name": "UEFA Champions League"
+    },
+    "stage": "FINAL",
+    "matchday": null,
+    "homeTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "awayTeam": {
+      "id": null,
+      "name": null,
+      "crest": null
+    },
+    "area": {
+      "id": 2077,
+      "name": "Europe",
+      "code": "EUR",
+      "flag": "https://crests.football-data.org/EUR.svg"
+    },
+    "lastUpdated": "2025-10-29T00:21:04Z"
   }
 ]
