@@ -5,11 +5,11 @@ const API = 'https://api.football-data.org/v4';
 const COMPS = [
   'CL',
   // 'EL', 'ECL',
-  'SA',
-  'PL',
-  'BL1',
-  'PD',
-  'FL1',
+  //   'SA',
+  //   'PL',
+  //   'BL1',
+  //   'PD',
+  //   'FL1',
 ];
 
 async function fd(path) {
@@ -40,15 +40,22 @@ const simplify = (m) => ({
 });
 
 async function run() {
-  await fs.mkdir('dist', { recursive: true });
+  await fs.mkdir('data', { recursive: true });
   for (const c of COMPS) {
-    const data = await fd(`/competitions/${c}/matches?status=SCHEDULED`);
-    const out = (data.matches ?? [])
-      .filter((match) => match.homeTeam.name)
-      .map(simplify)
-      .sort((a, b) => new Date(a.utcDate) - new Date(b.utcDate));
-    await fs.writeFile(`dist/fixtures_${c}.json`, JSON.stringify(out, null, 2));
-    console.log(`dist/fixtures_${c}.json (${out.length})`);
+    try {
+      const data = await fd(`/competitions/${c}/matches?status=SCHEDULED`);
+      const out = (data.matches ?? [])
+        .filter((match) => match.homeTeam.name)
+        .map(simplify)
+        .sort((a, b) => new Date(a.utcDate) - new Date(b.utcDate));
+      await fs.writeFile(
+        `data/fixtures_${c}.json`,
+        JSON.stringify(out, null, 2)
+      );
+      console.log(`dist/fixtures_${c}.json (${out.length})`);
+    } catch (err) {
+      console.error(err);
+    }
   }
 }
 run().catch((e) => {

@@ -1,30 +1,47 @@
-name: Publish fixtures to GitHub Pages
+name: Update & Publish fixtures
 
 on:
   schedule:
-    - cron: "0 5 * * 1"   # Mondays 05:00 UTC
+    - cron: "0 5 * * 1"     # Mondays 05:00 UTC
   workflow_dispatch:
 
 permissions:
-  contents: write
-  pages: write
-  id-token: write
+  contents: write           # commit to repo
+  pages: write              # deploy to Pages
+  id-token: write           # required by deploy-pages
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-        with: { node-version: 20 }
-      - name: Fetch fixtures
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0    # so we can commit back
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate fixtures
         env:
           FD_TOKEN: ${{ secrets.FD_TOKEN }}
         run: node scripts/fetch-fixtures.mjs
-      - name: Upload artifact
+
+      - name: Commit changes (if any)
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/fixtures_*.json
+          git diff --cached --quiet || git commit -m "chore(data): refresh fixtures"
+          git push || echo "No changes to push"
+
+      # Publish just the data/ folder to Pages
+      - name: Upload artifact for Pages
         uses: actions/upload-pages-artifact@v3
         with:
-          path: dist
+          path: data
 
   deploy:
     needs: build
